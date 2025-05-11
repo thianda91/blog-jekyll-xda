@@ -9,12 +9,12 @@
 *.log
 *.log.*
 
-/.vscode/
+# /.vscode/
+# /.bundle/
 
 node_modules/
 .sass-cache/
 
-/.bundle/
 /vendor/bundle
 *.gem
 
